@@ -1,9 +1,6 @@
 How to Contact Pogo Games Customer Service for Assistance
 ======================================================
 
-
-
-
 Pogo is one of the most popular online gaming platforms that offers a wide range of games for entertainment, skill development, and social interaction. However, like any online platform, users may occasionally experience technical issues or have questions regarding their accounts. This document serves as a comprehensive guide to Pogo's **Customer Service**, **Consumer Support**, and **Customer Care**. We’ll also cover essential aspects such as **Pogo Login**, **Pogo Download**, **Pogo Sign In**, **Pogo Install**, and **Pogo Update**.
 
 .. image:: click-here.gif
